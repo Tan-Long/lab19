@@ -1,0 +1,47 @@
+
+GraphRAG Pipeline — Cost & Performance Analysis
+=================================================
+Date: 2026-05-05
+Model: gemini-2.5-flash  |  Embeddings: gemini-embedding-001
+
+─── TOKEN USAGE ───────────────────────────────
+Entity extraction   : ~13,494 tokens  (18 articles)
+Node embeddings     : 298 embed calls  (239 nodes + 36 chunks)
+Query processing    : ~20,443 tokens  (20 questions × 2 pipelines)
+LLM judge           : ~8,133 tokens  (40 judgements)
+TOTAL tokens (est.) : ~45,348
+Estimated cost      : ~$0.0068 USD
+
+─── TIME BREAKDOWN ────────────────────────────
+Wikipedia fetch     : 18.6s
+Triple extraction   : 63.9s
+Node embedding      : 105.4s
+Flat RAG build      : 15.2s
+Benchmark (20 Qs)   : 148.9s
+TOTAL               : 352.0s
+
+─── ACCURACY RESULTS ──────────────────────────
+Flat RAG  avg score : 0.508
+GraphRAG  avg score : 0.425
+GraphRAG improvement: -16.3%
+
+Question breakdown  :
+  GraphRAG wins     : 4/20
+  Flat RAG wins     : 6/20
+  Ties              : 10/20
+
+─── LATENCY (avg) ─────────────────────────────
+Flat RAG  : 1.49s / question
+GraphRAG  : 2.45s / question
+
+─── KNOWLEDGE GRAPH STATS ─────────────────────
+Nodes               : 239
+Edges               : 241
+Triples extracted   : 241
+Articles processed  : 18
+
+─── CONCLUSION ────────────────────────────────
+⚠️  GraphRAG improvement is -16.3% (target: +20%).
+GraphRAG excels at multi-hop relational questions.
+Flat RAG is faster and better for simple lookups.
+=================================================

@@ -1,0 +1,1207 @@
+[
+  {
+    "subject": "OpenAI Global, LLC",
+    "predicate": "is a type of",
+    "object": "AI research organization"
+  },
+  {
+    "subject": "OpenAI Global, LLC",
+    "predicate": "headquartered in",
+    "object": "San Francisco"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "developed",
+    "object": "GPT family"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "developed",
+    "object": "DALL-E series"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "developed",
+    "object": "Sora series"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "released",
+    "object": "ChatGPT"
+  },
+  {
+    "subject": "ChatGPT",
+    "predicate": "release date",
+    "object": "November 2022"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "founded in",
+    "object": "2015"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "founded as",
+    "object": "nonprofit"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "founded in",
+    "object": "Delaware"
+  },
+  {
+    "subject": "for-profit subsidiary",
+    "predicate": "created in",
+    "object": "2019"
+  },
+  {
+    "subject": "Microsoft",
+    "predicate": "invested in",
+    "object": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "predicate": "invested over",
+    "object": "$13 billion"
+  },
+  {
+    "subject": "Microsoft",
+    "predicate": "provides",
+    "object": "Azure cloud computing resources"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "conducted share sale in",
+    "object": "October 2025"
+  },
+  {
+    "subject": "share sale",
+    "predicate": "valued company at",
+    "object": "$500 billion"
+  },
+  {
+    "subject": "share sale",
+    "predicate": "amounted to",
+    "object": "$6.6 billion"
+  },
+  {
+    "subject": "Sam Altman",
+    "predicate": "was",
+    "object": "CEO of OpenAI"
+  },
+  {
+    "subject": "OpenAI's board",
+    "predicate": "removed",
+    "object": "Sam Altman"
+  },
+  {
+    "subject": "Sam Altman",
+    "predicate": "reinstated as",
+    "object": "CEO"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "predicate": "trading as",
+    "object": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "is a subsidiary of",
+    "object": "Alphabet Inc."
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "founded in",
+    "object": "2010"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "acquired by",
+    "object": "Google"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "acquisition year",
+    "object": "2014"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "merged with",
+    "object": "Google AI's Google Brain division"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "merged in",
+    "object": "April 2023"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "headquartered in",
+    "object": "London"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "has research centres in",
+    "object": "United States"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "has research centres in",
+    "object": "Canada"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "has research centres in",
+    "object": "France"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "introduced",
+    "object": "neural Turing machines"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "created program",
+    "object": "AlphaGo"
+  },
+  {
+    "subject": "AlphaGo",
+    "predicate": "beat",
+    "object": "Lee Sedol"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "created program",
+    "object": "AlphaZero"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "developed",
+    "object": "AlphaFold"
+  },
+  {
+    "subject": "Google DeepMind",
+    "predicate": "responsible for",
+    "object": "Gemini"
+  },
+  {
+    "subject": "Google DeepMind",
+    "predicate": "responsible for",
+    "object": "Imagen"
+  },
+  {
+    "subject": "Google DeepMind",
+    "predicate": "responsible for",
+    "object": "Veo"
+  },
+  {
+    "subject": "Google DeepMind",
+    "predicate": "responsible for",
+    "object": "Lyria"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "is a type of",
+    "object": "AI company"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "headquartered in",
+    "object": "San Francisco"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "developed",
+    "object": "Claude"
+  },
+  {
+    "subject": "Claude",
+    "predicate": "is a type of",
+    "object": "large language model"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "focuses on",
+    "object": "AI safety"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "founded in",
+    "object": "2021"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "founded by",
+    "object": "Daniela Amodei"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "founded by",
+    "object": "Dario Amodei"
+  },
+  {
+    "subject": "Daniela Amodei",
+    "predicate": "role",
+    "object": "President"
+  },
+  {
+    "subject": "Dario Amodei",
+    "predicate": "role",
+    "object": "CEO"
+  },
+  {
+    "subject": "Daniela Amodei",
+    "predicate": "was a member of",
+    "object": "OpenAI"
+  },
+  {
+    "subject": "Dario Amodei",
+    "predicate": "was a member of",
+    "object": "OpenAI"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "is",
+    "object": "privately held"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "estimated value",
+    "object": "$380 billion"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "value as of",
+    "object": "February 2026"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "is a type of",
+    "object": "AI company"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "headquartered in",
+    "object": "Paris"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "founded in",
+    "object": "2023"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "develops",
+    "object": "open-weight large language models"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "develops",
+    "object": "open-source AI models"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "develops",
+    "object": "proprietary AI models"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "has valuation of",
+    "object": "US$14 billion"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "valuation year",
+    "object": "2025"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "is located in",
+    "object": "France"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "is a type of",
+    "object": "American technology company"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "has developed",
+    "object": "machine learning hardware"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "has developed",
+    "object": "generative artificial intelligence hardware"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "has developed",
+    "object": "machine learning apps"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "has developed",
+    "object": "generative artificial intelligence apps"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "founded in",
+    "object": "2022"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "is structured as",
+    "object": "public benefit corporation"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "headquartered in",
+    "object": "Palo Alto, California"
+  },
+  {
+    "subject": "Stability AI Ltd",
+    "predicate": "is a type of",
+    "object": "artificial intelligence company"
+  },
+  {
+    "subject": "Stability AI Ltd",
+    "predicate": "is based in",
+    "object": "UK"
+  },
+  {
+    "subject": "Stability AI Ltd",
+    "predicate": "is known for",
+    "object": "Stable Diffusion"
+  },
+  {
+    "subject": "Stable Diffusion",
+    "predicate": "is a type of",
+    "object": "text-to-image model"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "is a type of",
+    "object": "technology company"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "is based in",
+    "object": "Canada"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "focuses on",
+    "object": "artificial intelligence"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "specializes in",
+    "object": "large language models"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "specializes in",
+    "object": "AI products"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "serves industry",
+    "object": "finance"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "serves industry",
+    "object": "healthcare"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "serves industry",
+    "object": "manufacturing"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "serves industry",
+    "object": "energy fields"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "serves sector",
+    "object": "public sector"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "was founded in",
+    "object": "2019"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "was founded by",
+    "object": "Aidan Gomez"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "was founded by",
+    "object": "Ivan Zhang"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "was founded by",
+    "object": "Nick Frosst"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "has headquarters in",
+    "object": "Toronto"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "has office in",
+    "object": "Montreal"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "has office in",
+    "object": "New York City"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "agreed to acquire",
+    "object": "Aleph Alpha"
+  },
+  {
+    "subject": "Aleph Alpha",
+    "predicate": "is from",
+    "object": "Germany"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "agreement date",
+    "object": "April 2026"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "is a type of",
+    "object": "American company"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "based in",
+    "object": "New York City"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "develops",
+    "object": "computation tools"
+  },
+  {
+    "subject": "computation tools",
+    "predicate": "for",
+    "object": "building applications"
+  },
+  {
+    "subject": "building applications",
+    "predicate": "uses",
+    "object": "machine learning"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "develops",
+    "object": "transformers library"
+  },
+  {
+    "subject": "transformers library",
+    "predicate": "built for",
+    "object": "natural language processing applications"
+  },
+  {
+    "subject": "Hugging Face platform",
+    "predicate": "allows users to",
+    "object": "share machine learning models"
+  },
+  {
+    "subject": "Hugging Face platform",
+    "predicate": "allows users to",
+    "object": "share datasets"
+  },
+  {
+    "subject": "Hugging Face platform",
+    "predicate": "allows users to",
+    "object": "showcase their work"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "is a type of",
+    "object": "artificial intelligence infrastructure and software company"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "is based in",
+    "object": "San Francisco, California"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "offers",
+    "object": "RLHF services"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "offers",
+    "object": "large language model (LLM) evaluation"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "offers",
+    "object": "enterprise software suites"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "has research arm",
+    "object": "Safety, Evaluation and Alignment Lab"
+  },
+  {
+    "subject": "Safety, Evaluation and Alignment Lab",
+    "predicate": "focuses on",
+    "object": "evaluating and aligning LLMs"
+  },
+  {
+    "subject": "Safety, Evaluation and Alignment Lab",
+    "predicate": "co-created",
+    "object": "Humanity's Last Exam"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "outsources data labeling through",
+    "object": "Remotasks"
+  },
+  {
+    "subject": "Remotasks",
+    "predicate": "focuses on",
+    "object": "computer vision and autonomous vehicles"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "outsources data labeling through",
+    "object": "Outlier"
+  },
+  {
+    "subject": "Outlier",
+    "predicate": "focuses on",
+    "object": "annotating data for LLMs"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "operates",
+    "object": "LLM Red Team"
+  },
+  {
+    "subject": "LLM Red Team",
+    "predicate": "worked with",
+    "object": "OpenAI"
+  },
+  {
+    "subject": "LLM Red Team",
+    "predicate": "worked with",
+    "object": "Google DeepMind"
+  },
+  {
+    "subject": "LLM Red Team",
+    "predicate": "worked with",
+    "object": "national AI Safety Institutes"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "has customer",
+    "object": "Google"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "has customer",
+    "object": "Microsoft"
+  },
+  {
+    "subject": "Scale AI",
+    "predicate": "has customer",
+    "object": "Meta"
+  },
+  {
+    "subject": "Meta Platforms",
+    "predicate": "acquired stake in",
+    "object": "Scale AI"
+  },
+  {
+    "subject": "Cerebras Systems Inc.",
+    "predicate": "is a type of",
+    "object": "American artificial intelligence (AI) company"
+  },
+  {
+    "subject": "Cerebras Systems Inc.",
+    "predicate": "has office in",
+    "object": "Sunnyvale"
+  },
+  {
+    "subject": "Cerebras Systems Inc.",
+    "predicate": "has office in",
+    "object": "San Diego"
+  },
+  {
+    "subject": "Cerebras Systems Inc.",
+    "predicate": "has office in",
+    "object": "Toronto"
+  },
+  {
+    "subject": "Cerebras Systems Inc.",
+    "predicate": "has office in",
+    "object": "Bangalore, India"
+  },
+  {
+    "subject": "Cerebras Systems Inc.",
+    "predicate": "builds",
+    "object": "computer systems"
+  },
+  {
+    "subject": "computer systems",
+    "predicate": "for",
+    "object": "complex AI deep learning applications"
+  },
+  {
+    "subject": "Cerebras Systems Inc.",
+    "predicate": "developed",
+    "object": "wafer-scale AI chips"
+  },
+  {
+    "subject": "wafer-scale AI chips",
+    "predicate": "use",
+    "object": "entire silicon wafer as a supersized processor"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "is also known as",
+    "object": "Perplexity"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "is a type of",
+    "object": "software company"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "offers",
+    "object": "web search engine"
+  },
+  {
+    "subject": "Perplexity AI products",
+    "predicate": "use",
+    "object": "large language models"
+  },
+  {
+    "subject": "Perplexity AI products",
+    "predicate": "incorporate",
+    "object": "real-time web search capabilities"
+  },
+  {
+    "subject": "Sonar",
+    "predicate": "is a product of",
+    "object": "Perplexity AI"
+  },
+  {
+    "subject": "Sonar",
+    "predicate": "is based on",
+    "object": "Meta's Llama model"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "offers",
+    "object": "free public version"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "offers",
+    "object": "paid Pro subscription"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "was founded in",
+    "object": "August 2022"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "was founded by",
+    "object": "Aravind Srinivas"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "was founded by",
+    "object": "Denis Yarats"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "was founded by",
+    "object": "Johnny Ho"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "was founded by",
+    "object": "Andy Konwinski"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "was valued at",
+    "object": "US$20 billion"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "valuation date",
+    "object": "September 2025"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "attracted legal scrutiny from",
+    "object": "BBC"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "attracted legal scrutiny from",
+    "object": "Dow Jones"
+  },
+  {
+    "subject": "Perplexity AI",
+    "predicate": "attracted legal scrutiny from",
+    "object": "The New York Times"
+  },
+  {
+    "subject": "character.ai",
+    "predicate": "is also known as",
+    "object": "c.ai"
+  },
+  {
+    "subject": "character.ai",
+    "predicate": "is also known as",
+    "object": "char.ai"
+  },
+  {
+    "subject": "character.ai",
+    "predicate": "is also known as",
+    "object": "Character AI"
+  },
+  {
+    "subject": "character.ai",
+    "predicate": "is a type of",
+    "object": "generative AI chatbot service"
+  },
+  {
+    "subject": "character.ai",
+    "predicate": "designed by",
+    "object": "Noam Shazeer"
+  },
+  {
+    "subject": "character.ai",
+    "predicate": "designed by",
+    "object": "Daniel de Freitas"
+  },
+  {
+    "subject": "Noam Shazeer",
+    "predicate": "developer of",
+    "object": "Google LaMDA"
+  },
+  {
+    "subject": "Daniel de Freitas",
+    "predicate": "developer of",
+    "object": "Google LaMDA"
+  },
+  {
+    "subject": "beta version of character.ai",
+    "predicate": "made available on",
+    "object": "September 16, 2022"
+  },
+  {
+    "subject": "beta version of character.ai",
+    "predicate": "retired in",
+    "object": "September 2024"
+  },
+  {
+    "subject": "character.ai",
+    "predicate": "released mobile app in",
+    "object": "May 2023"
+  },
+  {
+    "subject": "mobile app for character.ai",
+    "predicate": "available on",
+    "object": "iOS"
+  },
+  {
+    "subject": "mobile app for character.ai",
+    "predicate": "available on",
+    "object": "Android"
+  },
+  {
+    "subject": "mobile app for character.ai",
+    "predicate": "received over",
+    "object": "1.7 million downloads within a week"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "doing business as",
+    "object": "xAI"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "is a",
+    "object": "American company"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "works in the area of",
+    "object": "artificial intelligence (AI)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "works in the area of",
+    "object": "social media"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "works in the area of",
+    "object": "technology"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "is a wholly owned subsidiary of",
+    "object": "SpaceX"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "founded by",
+    "object": "Elon Musk"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "founded in",
+    "object": "2023"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "has",
+    "object": "11 researchers"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "has flagship product",
+    "object": "Grok"
+  },
+  {
+    "subject": "Grok",
+    "predicate": "is a",
+    "object": "generative AI chatbot"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "has flagship product",
+    "object": "Grokipedia"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "has flagship product",
+    "object": "X"
+  },
+  {
+    "subject": "X",
+    "predicate": "is a",
+    "object": "social network"
+  },
+  {
+    "subject": "X",
+    "predicate": "acquired by",
+    "object": "xAI"
+  },
+  {
+    "subject": "X",
+    "predicate": "acquired in",
+    "object": "March 2025"
+  },
+  {
+    "subject": "Aleph Alpha GmbH",
+    "predicate": "is a type of",
+    "object": "AI startup company"
+  },
+  {
+    "subject": "Aleph Alpha GmbH",
+    "predicate": "is located in",
+    "object": "Germany"
+  },
+  {
+    "subject": "Aleph Alpha GmbH",
+    "predicate": "develops",
+    "object": "large language models"
+  },
+  {
+    "subject": "large language models",
+    "predicate": "provide",
+    "object": "transparency of sources"
+  },
+  {
+    "subject": "Aleph Alpha GmbH",
+    "predicate": "caters to",
+    "object": "enterprises"
+  },
+  {
+    "subject": "Aleph Alpha GmbH",
+    "predicate": "caters to",
+    "object": "governmental agencies"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "also known as",
+    "object": "Runway"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "also known as",
+    "object": "RunwayML"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "is a type of",
+    "object": "American company"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "headquartered in",
+    "object": "New York City"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "specializes in",
+    "object": "generative artificial intelligence research"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "specializes in",
+    "object": "generative artificial intelligence technologies"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "focuses on creating",
+    "object": "products for generating videos"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "focuses on creating",
+    "object": "products for generating images"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "focuses on creating",
+    "object": "products for generating multimedia content"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "develops",
+    "object": "commercial text-to-video AI models"
+  },
+  {
+    "subject": "Runway AI, Inc.",
+    "predicate": "develops",
+    "object": "video generative AI models"
+  },
+  {
+    "subject": "Runway's tools",
+    "predicate": "utilized in",
+    "object": "Everything Everywhere All at Once"
+  },
+  {
+    "subject": "Runway's AI models",
+    "predicate": "utilized in",
+    "object": "Everything Everywhere All at Once"
+  },
+  {
+    "subject": "Runway's tools",
+    "predicate": "utilized in editing",
+    "object": "The Late Show with Stephen Colbert"
+  },
+  {
+    "subject": "Runway's AI models",
+    "predicate": "utilized in editing",
+    "object": "The Late Show with Stephen Colbert"
+  },
+  {
+    "subject": "01.AI",
+    "predicate": "is a type of",
+    "object": "AI company"
+  },
+  {
+    "subject": "01.AI",
+    "predicate": "has Chinese name",
+    "object": "零一万物"
+  },
+  {
+    "subject": "01.AI",
+    "predicate": "has pinyin name",
+    "object": "Língyī Wànwù"
+  },
+  {
+    "subject": "01.AI",
+    "predicate": "is based in",
+    "object": "Beijing"
+  },
+  {
+    "subject": "Beijing",
+    "predicate": "is located in",
+    "object": "China"
+  },
+  {
+    "subject": "01.AI",
+    "predicate": "focuses on",
+    "object": "open source products"
+  },
+  {
+    "subject": "Moonshot AI",
+    "predicate": "is also known as",
+    "object": "Moonshot"
+  },
+  {
+    "subject": "Moonshot AI",
+    "predicate": "has Chinese name",
+    "object": "月之暗面"
+  },
+  {
+    "subject": "Moonshot AI",
+    "predicate": "has pinyin",
+    "object": "Yuè Zhī Ànmiàn"
+  },
+  {
+    "subject": "Moonshot AI",
+    "predicate": "means",
+    "object": "Dark Side of the Moon"
+  },
+  {
+    "subject": "Moonshot AI",
+    "predicate": "is a type of company",
+    "object": "artificial intelligence company"
+  },
+  {
+    "subject": "Moonshot AI",
+    "predicate": "is based in",
+    "object": "Beijing"
+  },
+  {
+    "subject": "Moonshot AI",
+    "predicate": "is located in",
+    "object": "China"
+  },
+  {
+    "subject": "Moonshot AI",
+    "predicate": "is dubbed",
+    "object": "AI Tiger"
+  },
+  {
+    "subject": "Moonshot AI",
+    "predicate": "dubbed by",
+    "object": "investors"
+  },
+  {
+    "subject": "Moonshot AI",
+    "predicate": "focuses on",
+    "object": "developing large language models"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "is a",
+    "object": "Chinese multinational technology company"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "specializes in",
+    "object": "Internet services"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "specializes in",
+    "object": "artificial intelligence"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "holds a dominant position in",
+    "object": "China's search engine market"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "provides",
+    "object": "Baidu Search"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "provides",
+    "object": "Baidu App"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "provides",
+    "object": "Baidu Baike"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "provides",
+    "object": "iQIYI"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "provides",
+    "object": "Baidu Tieba"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "provides",
+    "object": "ES File Explorer"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "diversified into",
+    "object": "autonomous driving (Baidu Apollo)"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "diversified into",
+    "object": "smart consumer electronics (Xiaodu)"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "diversified into",
+    "object": "full-service AI stack"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "incorporated in",
+    "object": "January 2000"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "founded by",
+    "object": "Robin Li"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "founded by",
+    "object": "Eric Xu"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "has origins in",
+    "object": "RankDex"
+  },
+  {
+    "subject": "RankDex",
+    "predicate": "developed by",
+    "object": "Robin Li"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "headquartered in",
+    "object": "Beijing's Haidian District"
+  },
+  {
+    "subject": "Baidu",
+    "predicate": "joined",
+    "object": "Partnership on AI"
+  }
+]
